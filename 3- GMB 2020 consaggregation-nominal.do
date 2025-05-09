@@ -24,7 +24,7 @@ The nominal welfare aggregate can be decomposed into two sub-aggregates: the foo
 *************************************
 ** INITIALIZATION OF THE WORKSPACE **
 *************************************
-version 16
+version 17
 
 clear
 set more off
